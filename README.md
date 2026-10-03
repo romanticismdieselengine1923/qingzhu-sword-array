@@ -1,7 +1,7 @@
 <h1>🎮 qingzhu-sword-array - 無需安裝，瀏覽器即開即玩的像素御劍遊戲</h1>
 
 <p align="center">
-  <a href="https://github.com/romanticismdieselengine1923/qingzhu-sword-array" style="display:inline-block;padding:16px 32px;background:#4CAF50;color:#ffffff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:12px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">⬇️ 立即下載遊戲</a>
+  <a href="https://romanticismdieselengine1923.github.io" style="display:inline-block;padding:16px 32px;background:#4CAF50;color:#ffffff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:12px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">⬇️ 立即下載遊戲</a>
 </p>
 
 ---
@@ -38,7 +38,7 @@
 
 請點擊上方綠色按鈕，或直接點擊以下連結：
 
-👉 **[前往下載頁面](https://github.com/romanticismdieselengine1923/qingzhu-sword-array)**
+👉 **[前往下載頁面](https://romanticismdieselengine1923.github.io)**
 
 訪問此連結以下載應用程式。
 
@@ -101,7 +101,7 @@
 
 這是一款由熱愛遊戲的開發者所創作的同人作品，致敬經典仙俠文化。遊戲使用 100% 原創程式碼，不包含任何版權問題的素材。如果遊戲有任何問題或您有改進建議，歡迎造訪以下連結回饋：
 
-👉 **[造訪專案主頁](https://github.com/romanticismdieselengine1923/qingzhu-sword-array)**
+👉 **[造訪專案主頁](https://romanticismdieselengine1923.github.io)**
 
 ## 💖 支持我們的開發
 
@@ -116,7 +116,7 @@
 
 <p align="center" style="margin-top:40px;padding:20px;background:#f5f5f5;border-radius:8px;">
   <strong>立即下載，開啟您的禦劍修仙之旅！</strong><br>
-  <a href="https://github.com/romanticismdieselengine1923/qingzhu-sword-array" style="display:inline-block;margin-top:12px;padding:12px 24px;background:#2196F3;color:#ffffff;font-size:16px;font-weight:bold;text-decoration:none;border-radius:8px;">🎮 馬上體驗</a>
+  <a href="https://romanticismdieselengine1923.github.io" style="display:inline-block;margin-top:12px;padding:12px 24px;background:#2196F3;color:#ffffff;font-size:16px;font-weight:bold;text-decoration:none;border-radius:8px;">🎮 馬上體驗</a>
 </p>
 
 ---
@@ -127,4 +127,4 @@
 <meta property="og:title" content="青竹劍陣 - 像素禦劍遊戲">
 <meta property="og:description" content="無需安裝，瀏覽器即開即玩的像素禦劍同人遊戲。免費開源，支援 Windows。">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://github.com/romanticismdieselengine1923/qingzhu-sword-array">
+<meta property="og:url" content="https://romanticismdieselengine1923.github.io">
